@@ -1,4 +1,5 @@
 - Contrat d'A.T. un peu ancien mais tout à fait valable.
+- Contrat adapaté à un prestataire de type ESN (entreprise de services du numérique) et non pas à un prestataire Freelance
 - source: http://lthoumyre.chez.com/pro/1/ctra19980702.htm#2a
 ___
 
